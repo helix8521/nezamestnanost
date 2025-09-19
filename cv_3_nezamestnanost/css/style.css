@@ -1,0 +1,25 @@
+html,
+body,
+
+#mapid {
+
+    height: 800px;
+    width: 800px;
+
+}
+
+label {
+    color: black;
+    padding: 8px;
+    background-color: #e7e7e7;
+    color: black;
+    display: block;
+}
+
+select {
+    font-size: 20px;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    color: #000;
+    cursor: pointer;
+}
